@@ -1,5 +1,6 @@
 # Text-Editor
-A text editor using HTML, CSS & Bootstrap
+A text editor using HTML, CSS & Bootstrap.
+
 **FUNCTIONS**
 * Font Selection
 * Bold Text
