@@ -10,4 +10,4 @@ A text editor using HTML, CSS & Bootstrap.
 * Ordered List
 * Link
 
-![Screenshot](Image/Capture.PNG)
+![Screenshot](Image/Screenshot_20230927_133439.jpg)
